@@ -69,6 +69,7 @@ python sentiment_classifier.py
 ## 👤 Autor
 
 **Enzo Cerneviva**  
-Estudante de Ciência da Computação — FIAP
-- LinkedIn: [linkedin.com/in/enzocerneviva]
-- GitHub: [github.com/enzocerneviva]
+Estudante de Ciência da Computação — FIAP  
+**🌐 [LinkedIn](https://www.linkedin.com/in/enzocerneviva)**  
+**💻 [GitHub](https://github.com/enzocerneviva)**
+
