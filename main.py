@@ -37,6 +37,8 @@ frases = [
     "Minha experiência foi excelente",
     "Estou muito satisfeito com a compra",
     "Valeu muito a pena",
+    "Eu acho tudo isso tão bom",
+    "Que clima legal",
     
     # Negativas
     "O atendimento foi péssimo",
@@ -58,17 +60,19 @@ frases = [
     "Não valeu o preço",
     "O aplicativo trava o tempo todo",
     "O livro é muito cansativo",
-    "O filme é confuso e mal feito"
+    "O filme é confuso e mal feito",
+    "Situação bem chata essa",
+    "Isso não é nada legal"
 ]
 
 # Lista de rótulos correspondentes às frases (1 = positivo, 0 = negativo)
 labels = [
     # Positivas
     1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
-    1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+    1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
     # Negativas
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-    0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 ]
 
 # ----- Geração de embeddings -----
